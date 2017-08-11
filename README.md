@@ -1,6 +1,7 @@
 # test
 play ground
-of fun and joy.
+of fun and joy
+and experimentation.
 
 ## It could be so much more.
 But do people really want it to be!?
